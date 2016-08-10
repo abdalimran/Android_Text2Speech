@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Text2Speech</string>
+    <string name="text_pitch">Set Pitch</string>
+    <string name="text_speed">Set Speed</string>
+</resources>
